@@ -1,0 +1,51 @@
+
+
+entreprise 
+id
+nom
+
+
+salarié
+id
+salaire
+
+                                                                               entreprise
+                                                                            ajouté voiture
+                                                                            ajouté employé 
+                                                                            ajouté bureaux
+
+                                                               		voiture          employé       bureau    
+voiturefonction
+id
+prix
+coutentretient
+
+
+
+etreemployé
+identreprise
+idsalarié
+fonction
+
+entreprisevoiture
+identreprise
+idvoiture
+
+camensuel
+ident
+date
+ca
+
+bureau
+id
+adresse
+prix
+occupation
+
+avoirbureaux
+idbureau
+identreprise
+
+
+
+
