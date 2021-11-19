@@ -1,0 +1,26 @@
+Vous devez représenter une entreprise avec la structure suivante.
+
+Une entreprise possède des salariés, des bureaux, des voitures de fonction, un chiffre d'affaires (CA) mensuel.
+Une entreprise possède un directeur.
+Une entreprise peut embaucher ou virer un salarié.
+Une entreprise peut acheter ou vendre une voiture de fonction.
+Une entreprise peut acheter ou vendre un bureau.
+
+Un salarié possède un salaire mensuel.
+Un salarié peut être directeur. Le directeur peut donner une augmentation à un salarié.
+Un salarié peut avoir une voiture de fonction, et une ou plusieurs voitures personnelles.
+
+Un bureau possède un prix de vente.
+Il peut être libre ou occupé. S'il est déjà occupé, il ne peut pas être acheté.
+
+Une voiture possède un prix de vente.
+Une voiture doit obligatoirement avoir un propriétaire.
+Une voiture possède un coût d'entretien mensuel.
+
+Créer 2 entreprises différentes. Afficher pour chaque entreprise un graphique avec la valeur d'achat de ses biens, et ses charges mensuelles.
+Faire une simulation de la vie d'une entreprise sur 12 mois, avec des arrivées et départs de salariés sur différents mois, et différentes acquisitions de bureaux et voitures sur différents mois.
+
+
+https://www.youtube.com/watch?v=Y-wXK0Wu5pc&t=2053s
+https://datascientest.com/programmation-orientee-objet-guide-ultime
+https://www.youtube.com/watch?v=jlnL6SwYS3Q
